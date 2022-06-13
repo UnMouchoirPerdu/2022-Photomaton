@@ -1,0 +1,6 @@
+{
+	"appId": "ch.divtec.bourgay.camera",
+	"appName": "Camera",
+	"webDir": "dist",
+	"bundledWebRuntime": false
+}
